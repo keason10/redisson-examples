@@ -13,7 +13,12 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>2.1.4.RELEASE</version>
+            <version>2.1.1.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>com.hw.redis</groupId>
+            <artifactId>keason10-resubmit</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
     <artifactId>locks-synchronizers-examples</artifactId>
